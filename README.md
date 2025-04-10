@@ -4,9 +4,9 @@
 
 
 Scrapping and plotting player movement data via BlueMaps.
-
-![image](https://github.com/user-attachments/assets/268bbed7-d757-48fb-a03c-daba2723e86a)
-![image](https://github.com/user-attachments/assets/debf7b5e-55bf-45b2-8d76-5096d199fdd5)
+![image](https://github.com/user-attachments/assets/f7b9d57a-bae9-4254-9923-fc7c365848f0)
+![image](https://github.com/user-attachments/assets/3c2f7742-1620-4463-a632-11fd3b8bd408)
+![image](https://github.com/user-attachments/assets/e9711d14-64e6-419a-b8e1-da8b45f4a483)
 
 
 
